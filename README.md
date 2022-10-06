@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Subashganesan00,
+- 👀 I’m interested in DATA SCIENTIST,
+- 🌱 I’m currently learning Advanced Programming and Master Data Science,
+- 💞️ I am looking forward to collaborating with all of you,
+- 📫  How to reach me subashganesan00@gmail.com , 9095450372.
